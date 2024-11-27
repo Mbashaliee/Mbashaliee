@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mbashaliee
 - 👀 I’m interested in emerging technologies
-- 🌱 I’m currently learning python including AI
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m a Mechatronics Engineering student, AI/ML and Data science student
+- 💞️ I’m looking to collaborate on projects that involves Robotics, AI/ML or Data science
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: It's good to be good
