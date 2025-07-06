@@ -1,31 +1,50 @@
 # 👋 Hi, I'm Muhammad Bashir Aliyu - M345H
-Mechatronics Engineering Student | AI Developer | Robotics Passionate | Tech Educator
+Mechatronics Engineering Student | AI Developer | Robotics Enthusiast | Tech Educator | Social Media Manager | Data Scientist
+
 
 ## 💡 About Me
 - 🧠 Passionate about using AI to solve real world problems
-- 👨‍💻 Currently working at EJAZTECH.AI
-- 🧑‍🔬 Fellow at Arewa Data Science Academy
+- 👨‍💻 Currently working at **EJAZTECH.AI**
+- 🧑‍🔬 Fellow at **Arewa Data Science Academy**
 - 🗣️ Creating tech content in Hausa for local impact
 
+
 ## 🔧 Tech Stack
-Python | TensorFlow | PyTorch | Arduino | HTML/CSS | Git | Colab | VSCode | 
+- Programming: Python, HTML/CSS
+- ML/DL Frameworks: TensorFlow, PyTorch
+- Tools: Google Colab, Git, VSCode
+- Hardware: Arduino, Microcontrollers, other electronics components
+
 
 ## 📂 Projects
-- 🍲 Food Vision AI 
-- 🩺 [Skin Disease Classifier](https://github.com/yourrepo) – CNN model with multilingual voice outputs
-- 🌟 100 Days of AI
-- 📚 [Book Recommendation System](https://github.com/yourrepo) – Collaborative filtering using rating matrix
-- ✈️ [Airline Satisfaction Predictor](https://github.com/yourrepo) – XGBoost with EDA & feature engineering
+- 🍲 [Food Vision AI](https://github.com/Mbashaliee/Food_vision_classfication.git) - Classifying African foods using transfer learning.
+- 🚗💰 [Car Price Prediction](https://github.com/Mbashaliee/Car_price_prediction.git) - Models to predict car prices.
+- 🩺 [Skin Disease Classifier](https://github.com/Mbashaliee/Skin_Disease_Classifier.git) - Predicts 23 skin diseases from images with multilingual voice output.
+- 🔥💡 [100 Days of AI](https://github.com/Mbashaliee/100_days_of_AI.git) - Daily learning challenge covering AI projects and concepts.
+- 📚 [Arewa Data Science Academy](https://github.com/Mbashaliee/ArewaDS_python_Exercises.git) - My Python & ML exercises from the Arewa Data Science Fellowship.
+- 🔍 Object Detection System 
+
+
+## 🏅 Certification
+- AI for Everyone (Coursera)
+- AI Mentorship (EJATECH.AI)
+- Python Programming (ArewaDS Academy)
+- [Introduction to AI](https://coursera.org/share/d63dc10b28f458f898bc2ba4f6a0ef94)
+- [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/W41LHKC17HU4?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+- [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/1109d93e098abaf8aab253e81fc06b7f)
+- [IoT Devices](https://coursera.org/share/ee0ddbef3e6f11453803034873bc61e1)
+- [IoT Communication](https://www.coursera.org/learn/iot-communications?utm_source=mobile&utm_source=link&utm_medium=page_share&utm_content=lih&utm_campaign=card_button)
+- AI for Business, Product management (Linkedin Learning)
+- Soft Skills Training (Jobberman)
+
 
 ## 📝 Blog & Media
-- 📖 [Intro to AI in Hausa (Medium)](https://medium.com/yourpost)
-- 🎙️ [Robotics Talk @ ADUSTECH](#)
+- 📖 Medium [Articles](https://medium.com/@mbash) - Writing on AI, and Machine Learning.
+- 🎙️ [Tech Talk @ ADUSTECH](#)
+
 
 ## 📬 Get in Touch
-- LinkedIn: [muhammadbashir](https://linkedin.com/in/muhammadbashir)
-- Email: mb25511644@gmail.com
+- 💼 LinkedIn: [muhammadbashir](https://www.linkedin.com/in/muhammad-bashir-aliyu-76370a23b)
+- 📘 Facebook: [Muhammad Bashir Aliyu](https://www.facebook.com/share/19J45tqFXC/)
+- ✉️ Email: mb25511644@gmail.com
 
-<!---
-Mbashaliee/Mbashaliee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
