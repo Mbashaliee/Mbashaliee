@@ -44,7 +44,7 @@ Mechatronics Engineering Student | AI Developer | Robotics Enthusiast | Tech Edu
 
 
 ## 📬 Get in Touch
-- 💼 LinkedIn: [muhammadbashir](https://www.linkedin.com/in/muhammad-bashir-aliyu-76370a23b)
+- 💼 LinkedIn: [Muhammad Bashir Aliyu](https://www.linkedin.com/in/muhammad-bashir-aliyu-76370a23b)
 - 📘 Facebook: [Muhammad Bashir Aliyu](https://www.facebook.com/share/19J45tqFXC/)
 - ✉️ Email: mb25511644@gmail.com
 
