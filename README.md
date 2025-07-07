@@ -22,7 +22,8 @@ Mechatronics Engineering Student | AI Developer | Robotics Enthusiast | Tech Edu
 - 🩺 [Skin Disease Classifier](https://github.com/Mbashaliee/Skin_Disease_Classifier.git) - Predicts 23 skin diseases from images with multilingual voice output.
 - 🔥💡 [100 Days of AI](https://github.com/Mbashaliee/100_days_of_AI.git) - Daily learning challenge covering AI projects and concepts.
 - 📚 [Arewa Data Science Academy](https://github.com/Mbashaliee/ArewaDS_python_Exercises.git) - My Python & ML exercises from the Arewa Data Science Fellowship.
-- 🔍 Object Detection System 
+- 🔍 Object Detection System
+- 🤖 DeepFake AI Detector - It detects images, audio, and video wheather is an AI generated.
 
 
 ## 🏅 Certification
