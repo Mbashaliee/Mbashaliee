@@ -24,7 +24,7 @@ Mechatronics Engineering Student | AI Developer | Robotics Enthusiast | Tech Edu
 - 📚 [Arewa Data Science Academy](https://github.com/Mbashaliee/ArewaDS_python_Exercises.git) - My Python & ML exercises from the Arewa Data Science Fellowship.
 - 🔍 Object Detection System
 - 🤖 DeepFake AI Detector - It detects images, audio, and video wheather is an AI generated.
-
+- 🌱 [SmartAgroAI](https://github.com/Mbashaliee/SmartAgroInsight.git) - Gamified Agric with Crop Recommendation system.
 
 ## 🏅 Certification
 - AI for Everyone (Coursera)
